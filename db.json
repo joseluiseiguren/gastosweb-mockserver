@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "postsA": [
     {
       "id": 1,
       "title": "json-serverA",
