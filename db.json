@@ -1,8 +1,8 @@
 {
-  "postsACg": [
+  "posts": [
     {
       "id": 1,
-      "title": "json-serverA",
+      "title": "json-serverAB",
       "author": "typicode"
     }
   ],
