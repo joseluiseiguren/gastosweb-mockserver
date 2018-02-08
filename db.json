@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-serverA",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "sumaryDay": {
+    "fecha": "08/02/2018",
+    "totalIngresos": 75.36,
+    "totalEgresos": 500
+  },
+  "sumaryMonth": {
+    "fecha": "01/02/2018",
+    "totalIngresos": 252003.36,
+    "totalEgresos": 185412.02
+  }
+
+}
