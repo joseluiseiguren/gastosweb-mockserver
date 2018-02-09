@@ -23,7 +23,49 @@
   },
   "sumaryMonth": {
     "fecha": "01/02/2018",
-    "totalIngresos": 252003.36,
-    "totalEgresos": 185412.02
-  }
+    "totalIngresos": 1000.00,
+    "totalEgresos": 2000.00
+  },
+  "diario": [
+    {
+      "concepto": {
+        "id": 1,
+        "descripcion": "Sueldo",
+        "suma": true
+      },
+      "importe": 0
+    },
+    {
+      "concepto": {
+        "id": 2,
+        "descripcion": "Auto",
+        "suma": false
+      },
+      "importe": -100
+    },
+    {
+      "concepto": {
+        "id": 3,
+        "descripcion": "Comida Work",
+        "suma": false
+      },
+      "importe": 0
+    },
+    {
+      "concepto": {
+        "id": 4,
+        "descripcion": "Supermercado",
+        "suma": false
+      },
+      "importe": -1900.00
+    },
+    {
+      "concepto": {
+        "id": 5,
+        "descripcion": "Plazo Fijo",
+        "suma": true
+      },
+      "importe": 1000
+    }
+  ]
 }
